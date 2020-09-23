@@ -6,3 +6,5 @@ docker ps
 
 # Go inside the container
 docker exec -it 'container-id' bash
+
+# test
